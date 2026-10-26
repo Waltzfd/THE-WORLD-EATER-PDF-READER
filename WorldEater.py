@@ -4,8 +4,10 @@ import csv
 import os
 import glob
 
-pastaEntrada = r"C:\Users\claudio.mota\Documents\WorldEater_PDF"
-pastaSaida = r"C:\Users\claudio.mota\Documents\Nuceria_Resultados"
+
+#pastaEntrada = r"INFORMAR A PASTA ONDE ESTÁ LOCALIZADA OS PDFS "
+#pastaSaida = r"INFORMAR A PASTA ONDE O ARQUIVO CSV SERÁ CRIADO "
+#APOS INSERIR A PASTA DE ENTRADA E SAIDA RETIRAR OS #
 arquivoSaida = os.path.join(pastaSaida, "relatorio_saida.csv")
 os.makedirs(pastaSaida, exist_ok=True)
 
