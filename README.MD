@@ -2,7 +2,7 @@
 
 Script em Python que lê relatórios de inventário patrimonial em PDF, extrai os dados de cada bem e gera um arquivo **CSV**. Ao final, **confere a soma dos valores extraídos com o "Total Geral"** impresso em cada relatório, apontando quais PDFs precisam de revisão manual.
 
-> **Versão:** 2.0 · **Última atualização:** _preencher_
+> **Versão:** 2.0 · **Última atualização:** _26/10/2026_
 
 ---
 
